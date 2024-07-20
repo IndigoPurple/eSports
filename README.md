@@ -1,7 +1,4 @@
-# eSports
-Code and data of "Directing eSport Broadcast with Event Cameras"
-
-## Visualizations
+# Directing eSport Broadcast with Event Cameras
 <table class="center" align="center">
     <thead class="center">
         <tr>

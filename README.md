@@ -3,7 +3,7 @@
     <thead class="center">
         <tr>
             <th>Scene</th>
-            <th>Motion</th>
+            <th>Fine Motor Skills</th>
         </tr>
     </thead>
     <tbody class="center" align="center">

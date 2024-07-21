@@ -9,7 +9,7 @@
     <tbody class="center" align="center">
         <tr>
             <td rowspan=4><img src="img/frame.gif" raw=true></td>
-            <td>with a conventional camera</td>
+            <td>with a traditional camera</td>
         </tr>
         <tr>
             <td class="center" align="center"><img src="img/frame_crop.gif" raw=true></td>

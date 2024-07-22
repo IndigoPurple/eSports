@@ -1,9 +1,8 @@
-# Directing eSport Broadcast with Event Cameras
 <table class="center" align="center">
     <thead class="center">
         <tr>
             <th>Scene</th>
-            <th>Fine Motor Skills</th>
+            <th>Detailed Hand Movements</th>
         </tr>
     </thead>
     <tbody class="center" align="center">

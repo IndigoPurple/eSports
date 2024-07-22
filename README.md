@@ -1,3 +1,5 @@
+# Directing eSport Broadcast with Event Cameras
+
 <table class="center" align="center">
     <thead class="center">
         <tr>
@@ -21,3 +23,5 @@
         </tr>
     </tbody>
 </table>
+
+Code and data will be released after the research paper is published.

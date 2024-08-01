@@ -1,4 +1,4 @@
-# Directing eSport Broadcast with Event Cameras
+# eSport Broadcast with Event Cameras
 
 <table class="center" align="center">
     <thead class="center">

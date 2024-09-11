@@ -24,4 +24,4 @@
     </tbody>
 </table>
 
-Code and data will be released after the research paper is published.
+Data will be released after the paper presentation at the conference in December 2024.

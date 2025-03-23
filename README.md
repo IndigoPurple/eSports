@@ -33,7 +33,7 @@ This repository contains the dataset and relevant code for our paper:
 
 ## 📁 Dataset Overview
 
-👉 **[Download the dataset here](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/zhaoyp_connect_hku_hk/Em14pK42rO9Lshv2rVNu9vsBaHIsc5CpEzgUY_tbqAfYOA?e=6PBVQG)**
+👉 <a href="https://connecthkuhk-my.sharepoint.com/:f:/g/personal/zhaoyp_connect_hku_hk/Em14pK42rO9Lshv2rVNu9vsBaHIsc5CpEzgUY_tbqAfYOA?e=6PBVQG" target="_blank"><strong>Download the dataset here</strong></a>
 
 The following folders are included:
 
@@ -54,7 +54,7 @@ The following folders are included:
 ## 🧠 Code Implementation
 
 - **Reconstruction**:  
-  We adopt the [E2VID](https://github.com/uzh-rpg/rpg_e2vid) model to convert event streams into video frames.
+  We adopt the <a href="https://github.com/uzh-rpg/rpg_e2vid" target="_blank">E2VID</a> model to convert event streams into video frames.
 
 - **Region of Interest Extraction**:  
   Please refer to the pseudocode in our paper for the ROI extraction algorithm.

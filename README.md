@@ -68,7 +68,7 @@ Cite our paper if you find this project interesting!
 ```bibtex
 @inproceedings{zhao2024esports,
   title     = {eSports Broadcasts with Event Cameras},
-  author    = {Yaping Zhao and Rongzhou Chen and Chutian Wang and Edmund Y. Lam},
+  author    = {Zhao, Yaping and Chen, Rongzhou and Wang, Chutian and Lam, Edmund Y.},
   booktitle = {International Conference on Neural Information Processing (ICONIP)},
   year      = {2024},
   publisher = {Springer}
